@@ -1,0 +1,14 @@
+node_modules
+
+#Hardhat files
+cache
+artifacts
+cache/
+artifacts/
+
+coverage*
+node_modules/
+
+contractsInfo.json
+deployments/hardhat
+deployments/localhost
